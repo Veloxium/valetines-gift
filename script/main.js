@@ -302,4 +302,35 @@ const resolveFetch = () => {
   });
 };
 
-resolveFetch().then(animationTimeline());
+let started = false;
+
+const startExperience = () => {
+  if (started) return;
+  started = true;
+
+  // fade out start screen
+  const startScreen = document.getElementById("startScreen");
+  startScreen.style.opacity = "0";
+  startScreen.style.pointerEvents = "none";
+
+  setTimeout(() => {
+    startScreen.style.display = "none";
+  }, 800);
+
+  // play music
+  const music = document.getElementById("music");
+  if (music) {
+    music.muted = false;
+    music.play();
+  }
+
+  // fetch data then start animation
+  resolveFetch().then(() => {
+    animationTimeline();
+  });
+};
+
+document
+  .getElementById("startScreen")
+  .addEventListener("click", startExperience);
+

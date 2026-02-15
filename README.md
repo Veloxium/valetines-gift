@@ -4,25 +4,29 @@
 
 [![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/GovindCodes)
 
+## Description
+
+A customizable Valentine's Day wish website. Create a personalized greeting with your own message, images, and animations to share with someone special.
 
 #### [See it Live](https://govindcodes.github.io/ValentineWish/)
 
-## Make your own version :computer:
+## Getting Started :computer:
 
 :camera::camera::camera::camera::camera::camera::camera:
-*Start with Smile*:smile::smile:
+*Start with Smile* :smile::smile:
 
 * Fork the repository
 * Open `customize.json` and replace name/wish-message/image with your own
-* Turn on GitHub pages for the repository (Settings > GitHub Pages)
-* Send the URL that you get at the above step to your friend
-
+* Configure GitHub Pages (Settings > GitHub Pages)
+* Share the generated URL with your special someone
 
 ## Contributing
 
-If you have any idea to make it more interesting, feel free to send a PR, or create an issue for a feature request.
+Found a way to improve this project? Feel free to submit a PR or open an issue for feature requests.
 
-Stay happy and keep the people you care about happy. :)
+Stay happy and spread joy! :)
 
-#### OwnerShip
- The animations used in the Repository is created by Afiur Rahman Fahim(faahim).:smile:
+## Credits
+
+Animations created by Afiur Rahman Fahim (faahim) :smile:
+

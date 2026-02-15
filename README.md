@@ -8,7 +8,7 @@
 
 A customizable Valentine's Day wish website. Create a personalized greeting with your own message, images, and animations to share with someone special.
 
-#### [See it Live](https://govindcodes.github.io/ValentineWish/)
+#### [See it Live](https://veloxium.github.io/valetines-gift/)
 
 ## Getting Started :computer:
 
@@ -29,4 +29,3 @@ Stay happy and spread joy! :)
 ## Credits
 
 Animations created by Afiur Rahman Fahim (faahim) :smile:
-

@@ -28,4 +28,6 @@ Stay happy and spread joy! :)
 
 ## Credits
 
-Animations created by Afiur Rahman Fahim (faahim) :smile:
+* Animations created by [Afiur Rahman Fahim (faahim)](https://github.com/faahim) :smile:
+* Project by [GovindCodes](https://github.com/GovindCodes)
+
